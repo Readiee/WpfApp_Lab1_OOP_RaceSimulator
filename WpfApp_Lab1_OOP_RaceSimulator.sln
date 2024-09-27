@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Lab1_OOP_RaceSimulator", "WpfApp_Lab1_OOP_RaceSimulator\WpfApp_Lab1_OOP_RaceSimulator.csproj", "{468307C8-9F19-49B2-87CE-B6E7E9B98ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468307C8-9F19-49B2-87CE-B6E7E9B98ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468307C8-9F19-49B2-87CE-B6E7E9B98ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468307C8-9F19-49B2-87CE-B6E7E9B98ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468307C8-9F19-49B2-87CE-B6E7E9B98ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
